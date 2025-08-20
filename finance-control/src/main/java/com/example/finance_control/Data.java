@@ -9,7 +9,6 @@ import org.springframework.core.env.PropertyResolver;
 import org.springframework.stereotype.Component;
 
 import java.sql.*;
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 @Component
